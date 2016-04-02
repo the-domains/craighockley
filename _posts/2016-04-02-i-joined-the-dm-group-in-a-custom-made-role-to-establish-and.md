@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I joined THE DM GROUP in a custom made role to establish and expand the digital arm of the group, clickDM.\_"
-datePublished: '2016-04-02T11:30:03.990Z'
-dateModified: '2016-04-02T11:30:03.044Z'
-title: ''
+datePublished: '2016-04-02T11:34:08.187Z'
+dateModified: '2016-04-02T11:33:46.505Z'
+title: The DM Group
 author: []
 authors: []
 publisher:
@@ -33,7 +33,8 @@ Part account service, part strategy planning, my role dared me to imagine the im
 Buoyed by my previous agency based bicycle rides, I captained the agency team (of one) in our Inaugural 'Around the Bay in a Day' ride to celebrate our Bicycle Network Victoria new business win.
 The role was then expanded to take on the lead account service position across the entire agency, responsible for a department of five, from Senior Account Director to Account Executives. 
 
-Copywriting formed an essential part of the role for the majority of 2013, and I was responsible for creating some arresting content for a number of clients, including TVC's, online video, mobile apps, DM and member magazines. 
+Copywriting formed an essential part of the role for the majority of 2013, and I was responsible for creating some arresting content for a number of clients, including TVC's, online video, mobile apps, DM and member magazines. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f3ee141-f113-44d1-8622-8a715e3d2263.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33a63426-e731-4fb5-a4ef-fcfe7814c614.jpg)
 
 Clients:
 HOSTPLUS, The Australian Government, Compass Group, Glaxo SmithKline, Golf Australia, YMCA, Bicycle Network Victoria, KPMG, PLUM Superannuation, Jewish Care, Defence Health, UCB Pharma.
