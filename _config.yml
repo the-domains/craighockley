@@ -1,6 +1,6 @@
 name: craighockley
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.48987
 typography_spectrum: 0.5998
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#80715c'
     - '#f8d0b5'
     - '#a8bad2'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.6752707913983613
-  saturation: 0.0636305867228657
+  saturation: 0.625
   rhythmicContrast: 0.4193611852824688
 purpose: []
